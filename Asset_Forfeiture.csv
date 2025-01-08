@@ -1,0 +1,4 @@
+Case_ID,Asset_Type,Asset_Value,Case_Status,Region
+101,Cash,50000,Closed,North
+102,Real Estate,200000,Closed,West
+103,Vehicle,35000,Pending,South
